@@ -11,4 +11,4 @@
 - **Frontend**: HTML, CSS, JavaScript (Currently learning)  
 
 ## 📫 Connect with Me  
-![Fuzail's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzailnizamani&show_icons=true&theme=radical)
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-username)
