@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Fuzail Ahmed!
 
-<!--
-**fuzailnizamani/fuzailnizamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Backend Developer** | Node.js, Express.js, MongoDB  
+💡 Currently building **Taskify** - A Task Manager Project  
+🎯 Looking for an **internship** to gain real-life experience and enhance my backend development skills  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Languages**: JavaScript  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Frontend**: HTML, CSS, JavaScript (Currently learning)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/fuzail_nizamani?t=-vlhb5Lkg03dH9ru1Atc8w&s=09)
