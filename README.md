@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Fuzail Ahmed!
 
 🚀 Passionate **Backend Developer** | Node.js, Express.js, MongoDB  
-💡 Currently building **Taskify** - A Task Manager Project  
-🎯 Looking for an **internship** to gain real-life experience and enhance my backend development skills  
 
 ## 🔧 Tech Stack  
 - **Languages**: JavaScript  
